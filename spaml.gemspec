@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["ari.ehrmann@gmail.com"]
 
   spec.summary       = %q{A Ruby DSL for creating minimal single-page webpps runabble in the browser}
-  spec.homepage      = "https://github.com:aehrmann/spaml.git"
+  spec.homepage      = "https://www.github.com/aehrmann/spaml"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
